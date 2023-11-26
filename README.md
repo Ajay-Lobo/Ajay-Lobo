@@ -1,6 +1,9 @@
+<div align="center"> 
+    
 # Hi there! Welcome to my GitHub Profile! ✨
-
+    
 ## <img src="./assets/waving-hand.webp" width="4%"> My name is Ajay, an aspiring Web Developer. <img src="./assets/waving-hand.webp" width="4%">
+</div>
 
 ## 🛠 Languages and Tools
 📖 I have been learning and exploring these following tools and languages
@@ -18,8 +21,9 @@
     <code><a href="https://tailwindcss.com/" title="TailwindCSS" target="_blank"><img src="https://res.cloudinary.com/dhkh3kguy/image/upload/v1701019076/pngwing.com_blpxlc.png" alt="tailwind" width="40" height="40"/></a></code>
 </div>
 
-## 📊 Stats
-![](https://visitor-badge.laobi.icu/badge?page_id=ajay-lobo.ajay-lobo)
+### 📊 Github Stats
+ <img src="https://komarev.com/ghpvc/?username=ajay-lobo&style=for-the-badge" />
+
 <!--
 **Ajay-Lobo/Ajay-Lobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
