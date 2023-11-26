@@ -19,7 +19,7 @@
 </div>
 
 ## 📊 Stats
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ajay-lobo.ajay-lobo)
+![](https://visitor-badge.laobi.icu/badge?page_id=ajay-lobo.ajay-lobo)
 <!--
 **Ajay-Lobo/Ajay-Lobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
