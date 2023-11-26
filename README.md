@@ -1,6 +1,6 @@
 <div align="center"> 
     
-# Hi there! Welcome to my GitHub Profile! ✨
+# ✨ Hi there! Welcome to my GitHub Profile! ✨
     
 ## <img src="./assets/waving-hand.webp" width="4%"> My name is Ajay, an aspiring Web Developer. <img src="./assets/waving-hand.webp" width="4%">
 </div>
