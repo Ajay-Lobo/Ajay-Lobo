@@ -22,9 +22,9 @@
  <img src="https://komarev.com/ghpvc/?username=ajay-lobo&style=for-the-badge" />
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajay-lobo&theme=dark&ring=03B6FC&fire=03B6FC&currStreakNum=FBA82C&currStreakLabel=FBA82C&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajay-lobo&theme=dark&ring=03B6FC&fire=03B6FC&currStreakNum=FBA82C&currStreakLabel=03B6FC&hide_border=true)](https://git.io/streak-stats)
 
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajay-lobo&hide_border=true&show_icons=true&bg_color=151515&title_color=03B6FC&icon_color=FBA82C&text_bold=false&text_color=9e9e9e)
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajay-lobo&hide_border=true&show_icons=true&bg_color=151515&title_color=03B6FC&icon_color=03B6FC&text_bold=false&text_color=9e9e9e)
 <!--
 **Ajay-Lobo/Ajay-Lobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
