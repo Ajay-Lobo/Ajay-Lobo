@@ -1,5 +1,5 @@
 <div align="center"> 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=ffffff&center=true&multiline=true&random=false&width=1000&lines=✨+Hi+there!+Welcome+to+my+GitHub+Profile!+✨;" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=03B6FC&center=true&multiline=true&random=false&width=1000&lines=✨+Hi+there!+Welcome+to+my+GitHub+Profile!+✨;" alt="Typing SVG" /></a>
  
 ## <img src="./assets/waving-hand.webp" width="4%"> My name is Ajay, an aspiring Software Developer. <img src="./assets/waving-hand.webp" width="4%">
 </div>
@@ -8,7 +8,7 @@
 📖 I have been learning and exploring these following tools and languages
 
 <div align="center">
-    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="phpMyAdmin" src="https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat-square&logo=phpmyadmin&logoColor=white" />
@@ -22,7 +22,7 @@
  <img src="https://komarev.com/ghpvc/?username=ajay-lobo&style=for-the-badge" />
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajay-lobo&theme=dark&ring=03B6FC&fire=03B6FC&currStreakNum=FBA82C&currStreakLabel=03B6FC&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajay-lobo&theme=dark&ring=03B6FC&fire=03B6FC&currStreakNum=03B6FC&currStreakLabel=03B6FC&hide_border=true)](https://git.io/streak-stats)
 
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajay-lobo&hide_border=true&show_icons=true&bg_color=151515&title_color=03B6FC&icon_color=03B6FC&text_bold=false&text_color=9e9e9e)
 <!--
