@@ -1,6 +1,7 @@
 <div align="center"> 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=41&pause=1000&color=03B6FC&center=true&multiline=true&random=false&width=1000&lines=✨+Hi+there!+Welcome+to+my+GitHub+Profile!+✨;" alt="Typing SVG" /></a>
- 
+ <hr/>
+
 ## <img src="./assets/waving-hand.webp" width="4%"> My name is Ajay, an aspiring Software Developer. <img src="./assets/waving-hand.webp" width="4%">
 </div>
 
@@ -25,6 +26,14 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ajay-lobo&theme=dark&ring=03B6FC&fire=03B6FC&currStreakNum=03B6FC&currStreakLabel=03B6FC&hide_border=true)](https://git.io/streak-stats)
 
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajay-lobo&hide_border=true&show_icons=true&bg_color=151515&title_color=03B6FC&icon_color=03B6FC&text_bold=false&text_color=9e9e9e)
+
+## Contribution Snake :
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ajay-lobo/ajay-lobo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ajay-lobo/ajay-lobo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ajay-lobo/ajay-lobo/output/github-contribution-grid-snake.svg">
+</picture>
 <!--
 **Ajay-Lobo/Ajay-Lobo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
