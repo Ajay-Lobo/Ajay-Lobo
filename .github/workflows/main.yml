@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Generate Snake
-        uses: Platane/snk@v2.1.0
+        uses: Platane/snk@2.0.0-rc.2
         with:
           github_user_name: Ajay-Lobo
       - name: Push Snake
