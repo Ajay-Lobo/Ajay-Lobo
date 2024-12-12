@@ -29,10 +29,6 @@
     <img alt="Render" src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
 </div>
 
-## 🛠 Daily Dev
-<div align="center">
-<a href="https://app.daily.dev/ajaynishanthlobo"><img src="https://api.daily.dev/devcards/v2/YfrZRCYPqWgn5upyj1nor.png?type=default&r=ouc" width="356" alt="Ajay Nishanth Lobo's Dev Card"/></a>
-</div>
 
 ### 📊 Github Stats
  <img src="https://komarev.com/ghpvc/?username=ajay-lobo&style=for-the-badge" />
